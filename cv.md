@@ -29,7 +29,7 @@ with a hands-on mindset, technical acumen, and strong leadership capabilities.
 ********* 
 ### Professional experience
 
-**Product Manager & Team Lead | WN Media Group**
+** Product Manager & Team Lead | WN Media Group**
 
 _Jan 2022 – Present_
 
@@ -58,7 +58,7 @@ content teams.
 * Stakeholder Engagement
 * R&D Leadership
 * Data-Driven Decision Making
-* SQL | Python | HTML/CSS
+* SQL, Python,  HTML/CSS
 * Budgeting & P&L Ownership
 * Digital Analytics
 
