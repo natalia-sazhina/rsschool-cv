@@ -1,3 +1,10 @@
+<figure>
+  <img
+    src="sazhina-photo.jpg"
+    alt="Natalia Sazhina"
+    style="border: 2px solid #eeeeee; border-radius: 2px;">
+</figure> 
+
 # Natalia Sazhina
 ### Product manager
 ********* 
@@ -22,7 +29,8 @@ with a hands-on mindset, technical acumen, and strong leadership capabilities.
 ********* 
 ### Professional experience
 
-** Product Manager & Team Lead | WN Media Group**
+**Product Manager & Team Lead | WN Media Group**
+
 _Jan 2022 – Present_
 
 * Scaled [WNHub.io ](WNHub.io)
@@ -67,7 +75,18 @@ Saint Petersburg State Polytechnic University, 2016.
 ### Languages:
 * Russian: native
 * English: B2
+<figure>
+  <img
+    src="Certificate-Web.jpg"
+    alt="Natalia Sazhina Certificate"
+    style="border: 2px solid #eeeeee; border-radius: 2px;">
+</figure> 
 
-********* 
 
-![Sazhina Natalia](sazhina-photo.jpg "Sazhina")
+
+
+
+
+
+
+
