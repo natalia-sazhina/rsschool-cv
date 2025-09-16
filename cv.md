@@ -29,7 +29,7 @@ with a hands-on mindset, technical acumen, and strong leadership capabilities.
 ********* 
 ### Professional experience
 
-** Product Manager & Team Lead | WN Media Group**
+**Product Manager & Team Lead | WN Media Group**
 
 _Jan 2022 – Present_
 
